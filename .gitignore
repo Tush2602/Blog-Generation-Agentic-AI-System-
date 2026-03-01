@@ -12,3 +12,5 @@ wheels/
 
 run.txt
 check.ipynb
+.env
+.gitignore
